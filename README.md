@@ -17,6 +17,7 @@ React · Next.js · React Native · Ionic · TypeScript · Node.js · PHP/Larave
 
 ## Selected work
 
+- **SamaUma Projects** — Published Android app: technical monitoring and planting management tool for field teams. [Google Play](https://play.google.com/store/apps/details?id=com.samauma.gpspolygonmapper)
 - **[WWork](https://wwork.uk)** — SaaS for UK home-service businesses (scheduling, bookings and operations).
 - **[Upbase](https://upbase.com.br)** — technology consultancy (HR - Henrique Rocha Consultoria Digital).
 - Delivery for **SMEs** and **nonprofit / third-sector** organisations.
